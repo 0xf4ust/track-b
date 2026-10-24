@@ -1,0 +1,15 @@
+{
+  "source_url": "https://ethereum-rpc.publicnode.com",
+  "collected_at_utc": "2026-10-24T10:42:53.836230+00:00",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "eth_chainId",
+    "params": []
+  },
+  "response": {
+    "jsonrpc": "2.0",
+    "result": "0x1",
+    "id": 1
+  }
+}

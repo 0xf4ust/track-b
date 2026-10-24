@@ -1,0 +1,64 @@
+{
+  "source_url": "https://eth.drpc.org",
+  "collected_at_utc": "2026-10-24T10:45:59.989381+00:00",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "debug_traceTransaction",
+    "params": [
+      "0x5bd338eb788898addcbd079cac3e661ae139f0b3b5fb354f83012a438da88b71",
+      {
+        "tracer": "prestateTracer",
+        "tracerConfig": {
+          "diffMode": true
+        }
+      }
+    ]
+  },
+  "response": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "post": {
+        "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4": {
+          "balance": "0x41ee246492d6ee91f7e6",
+          "storage": {
+            "0x0000000000000000000000000000000000000000000000000000000000000005": "0x0000000000000000000000000000000000000000000000000000000000000047"
+          }
+        },
+        "0x1f4eb0a903619ac168b19a82f1a6e2e426522211": {
+          "balance": "0x29faf753b3f1b1d",
+          "nonce": 10
+        },
+        "0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5": {
+          "balance": "0xa55675b63183ab3f"
+        },
+        "0xf89d7b9c864f589bbf53a82105107622b35eaa40": {
+          "balance": "0xf80a86128dee4911f53"
+        }
+      },
+      "pre": {
+        "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4": {
+          "balance": "0x4ea2bfa94d371c11f7e6",
+          "code": "0x608060405273ffffffffffffffffffffffffffffffffffffffff600054167fa619486e0000000000000000000000000000000000000000000000000000000060003514156050578060005260206000f35b3660008037600080366000845af43d6000803e60008114156070573d6000fd5b3d6000f3fea265627a7a72315820d8a00dc4fe6bf675a9d7416fc2d00bb3433362aa8186b750f76c4027269667ff64736f6c634300050e0032",
+          "nonce": 1,
+          "storage": {
+            "0x0000000000000000000000000000000000000000000000000000000000000005": "0x0000000000000000000000000000000000000000000000000000000000000046"
+          }
+        },
+        "0x1f4eb0a903619ac168b19a82f1a6e2e426522211": {
+          "balance": "0x2a49f4091df66d5",
+          "nonce": 9
+        },
+        "0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5": {
+          "balance": "0xa556120aa1e67e3f",
+          "nonce": 1980935
+        },
+        "0xf89d7b9c864f589bbf53a82105107622b35eaa40": {
+          "balance": "0x2cc0d1c6e7eb7111f53",
+          "nonce": 5487503
+        }
+      }
+    }
+  }
+}

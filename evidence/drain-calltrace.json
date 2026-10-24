@@ -1,0 +1,50 @@
+{
+  "source_url": "https://eth.drpc.org",
+  "collected_at_utc": "2026-10-24T10:44:10.180894+00:00",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "debug_traceTransaction",
+    "params": [
+      "0xb61413c495fdad6114a7aa863a00b2e3c28945979a10885b12b30316ea9f072c",
+      {
+        "tracer": "callTracer"
+      }
+    ]
+  },
+  "response": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "from": "0x0fa09c3a328792253f8dee7116848723b72a6d2e",
+      "gas": "0xf4240",
+      "gasUsed": "0xee35",
+      "to": "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4",
+      "input": "0x1163b2b000000000000000000000000047666fab8bd0ac7003bce3f5c3585383f09486e2",
+      "calls": [
+        {
+          "from": "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4",
+          "gas": "0xea064",
+          "gasUsed": "0x879e",
+          "to": "0xbdd077f651ebe7f7b3ce16fe5f2b025be2969516",
+          "input": "0x1163b2b000000000000000000000000047666fab8bd0ac7003bce3f5c3585383f09486e2",
+          "calls": [
+            {
+              "from": "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4",
+              "gas": "0x8fc",
+              "gasUsed": "0x0",
+              "to": "0x47666fab8bd0ac7003bce3f5c3585383f09486e2",
+              "input": "0x",
+              "value": "0x54fd0d4baa6732d1f7e6",
+              "type": "CALL"
+            }
+          ],
+          "value": "0x0",
+          "type": "DELEGATECALL"
+        }
+      ],
+      "value": "0x0",
+      "type": "CALL"
+    }
+  }
+}

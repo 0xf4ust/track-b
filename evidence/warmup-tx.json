@@ -1,0 +1,39 @@
+{
+  "source_url": "https://eth.drpc.org",
+  "collected_at_utc": "2026-10-24T10:45:18.119713+00:00",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "eth_getTransactionByHash",
+    "params": [
+      "0x2fe2c9a7d5c710bd8425ee191d46f82b24f69aebf2673baacd3464d836ec6bdd"
+    ]
+  },
+  "response": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "blockHash": "0x43760c6f2e17943922a3e15206433c5d2608523da5270e04f728d1bcd6d90630",
+      "blockNumber": "0x14e1846",
+      "blockTimestamp": "0x67b88a0f",
+      "from": "0xab894c9098032c43ae9ec4dadd6152ad46759e62",
+      "gas": "0xf50d",
+      "gasPrice": "0x711b2032",
+      "maxFeePerGas": "0x87bae103",
+      "maxPriorityFeePerGas": "0x1e5941f0",
+      "hash": "0x2fe2c9a7d5c710bd8425ee191d46f82b24f69aebf2673baacd3464d836ec6bdd",
+      "input": "0xa9059cbb000000000000000000000000f5483632a2959272396343591278637d5e94711f000000000000000000000000000000000000000000000000000000000bebc200",
+      "nonce": "0x91",
+      "to": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "transactionIndex": "0x6b",
+      "value": "0x0",
+      "type": "0x2",
+      "accessList": [],
+      "chainId": "0x1",
+      "v": "0x0",
+      "r": "0x3f9dd426d6cd2b28fe29964963bb63d866c4b8e1b8af3d4b69735e1edc00171",
+      "s": "0x9e2e9e0cf26c75dd9a9ea187fd3f86ca54435adecad42e992d99bcb62a317b1",
+      "yParity": "0x0"
+    }
+  }
+}

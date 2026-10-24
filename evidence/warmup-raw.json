@@ -1,0 +1,17 @@
+{
+  "source_url": "https://ethereum-rpc.publicnode.com",
+  "collected_at_utc": "2026-10-24T10:45:58.782145+00:00",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "eth_getRawTransactionByHash",
+    "params": [
+      "0x2fe2c9a7d5c710bd8425ee191d46f82b24f69aebf2673baacd3464d836ec6bdd"
+    ]
+  },
+  "response": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": "0x02f8b0018191841e5941f08487bae10382f50d94a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4880b844a9059cbb000000000000000000000000f5483632a2959272396343591278637d5e94711f000000000000000000000000000000000000000000000000000000000bebc200c080a003f9dd426d6cd2b28fe29964963bb63d866c4b8e1b8af3d4b69735e1edc00171a009e2e9e0cf26c75dd9a9ea187fd3f86ca54435adecad42e992d99bcb62a317b1"
+  }
+}

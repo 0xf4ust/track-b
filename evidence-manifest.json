@@ -1,0 +1,194 @@
+[
+  {
+    "file": "GnosisSafe-v1.1.1.sol",
+    "sha256": "06977c9d783606f2588e5cbc34dac24826c94d6eecbc1d1e7ce19f22009ecbf6"
+  },
+  {
+    "file": "OwnerManager-v1.1.1.sol",
+    "sha256": "6c5a01dcddd7fd554b35141a00129864e04e086fb5afd4b128f754de61825a51"
+  },
+  {
+    "file": "Proxy-v1.1.1.sol",
+    "sha256": "f7a59e959a2c0ab968564fccfa5d8aab15d2cbceb08901caaf3e3d220f760b53"
+  },
+  {
+    "file": "Safe-v1.1.1-LICENSE",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+  },
+  {
+    "file": "attack-block.json",
+    "sha256": "9f26594d2e302ca9c5c91ca508138eecb7c3cbee8a6ba63f69026649a3834e3c"
+  },
+  {
+    "file": "attack-calltrace.json",
+    "sha256": "4a8ffab9577f1c8de5dc3296e80ac6e4fc870f6b3bd1da72c419acc585c82325"
+  },
+  {
+    "file": "attack-prestate.json",
+    "sha256": "8ae557827d5371340bad853f6e10d778a91f43f98533d421ce5b7bae4f379190"
+  },
+  {
+    "file": "attack-raw.json",
+    "sha256": "71176348e9d629e14d52497410f140796820e0cab9b452f2e95295e9bfffc0d5"
+  },
+  {
+    "file": "attack-receipt-crosscheck.json",
+    "sha256": "ddde1099ae16ae13a7e6c5fd125efc77ab55ea7cd46b51e6e397ac5361991105"
+  },
+  {
+    "file": "attack-receipt.json",
+    "sha256": "9f81cad15e040ff840ac9c792967b33f8df917279d45da09641c818faa1cd9d1"
+  },
+  {
+    "file": "attack-state-diff.json",
+    "sha256": "3107fd19d56280b37c230e3c0ffe982eac91bee596fd96551bb978d93e994566"
+  },
+  {
+    "file": "attack-tx-crosscheck.json",
+    "sha256": "0f758db0368eec3d5f605bb3b5000425fa3c0b1e462a87f9d25bc85b8eb019b7"
+  },
+  {
+    "file": "attack-tx.json",
+    "sha256": "228edce3aaee0618c26e61c56016b83024d889d003645feb7a8673ae22b16f2c"
+  },
+  {
+    "file": "chain-id.json",
+    "sha256": "2bb0328df9ab078e9ead6383ec277297df4e711b9d3a201039cc73cd0bc8f9df"
+  },
+  {
+    "file": "code-provenance.txt",
+    "sha256": "666c93c2f92373742958526df7478198e29b5539090f44a3d7e7225ee8a6f7c5"
+  },
+  {
+    "file": "delegate-control-block.json",
+    "sha256": "72644b6c7744668f0bafed628adeb72e218ed917b1b42a2bb021a506956a31e7"
+  },
+  {
+    "file": "delegate-control-calltrace.json",
+    "sha256": "29a7e9e51f3870a7de1fe1a76d99bda1bd4953df82a51f298b5da8c8a4650eb1"
+  },
+  {
+    "file": "delegate-control-raw.json",
+    "sha256": "81a0712bbcae341be1bec8d081c66dbf052e090a7c847cd70b6a98d6727af475"
+  },
+  {
+    "file": "delegate-control-receipt.json",
+    "sha256": "93e35beb1556915ace190dcd6171f475d781585d598dfe9e0094c4c54ee86bf9"
+  },
+  {
+    "file": "delegate-control-state-diff.json",
+    "sha256": "2af681926221d7a29e0d5adb210e74e91af601c8a23ce5869acd643ceda2e241"
+  },
+  {
+    "file": "delegate-control-tx.json",
+    "sha256": "031844e274bda9940bd1cf69fd83b887a1fa803216f06dad98f0626a6d623d74"
+  },
+  {
+    "file": "drain-block.json",
+    "sha256": "221b50f30e45da15b1269e63a54dae22142006195eb96016f49e16f2397c6405"
+  },
+  {
+    "file": "drain-calltrace.json",
+    "sha256": "161ad925d900a69ca64e272fed22788540a752fcd31a47fcfb0e43feeb1f2cbc"
+  },
+  {
+    "file": "drain-raw.json",
+    "sha256": "ff826e4a454c36d2be6962f8316c72735847c98cd0283ed8a2b4502ffd836d71"
+  },
+  {
+    "file": "drain-receipt.json",
+    "sha256": "55d9a972071c38f321e20e0eafdba66c379540c34153ab0d7b3367ee23f3bd9e"
+  },
+  {
+    "file": "drain-state-diff.json",
+    "sha256": "3e74456260f4960644bb26d216dd94512334bf9f5344e4d9a780abe2c1dcbfea"
+  },
+  {
+    "file": "drain-tx.json",
+    "sha256": "9944ef69101e16957962bb6e39dca7347a711d733bc229e827a37c26102d9f08"
+  },
+  {
+    "file": "implementation-code-after.json",
+    "sha256": "16a5847e6adc394a8bd684fe34b60ff680cbad88584be732b2e25f7071bbd241"
+  },
+  {
+    "file": "implementation-code-before.json",
+    "sha256": "e8664fcf78ef0afcd75949c56a13f4a9ed1f3588db59662dae98fde5d6bbf885"
+  },
+  {
+    "file": "normal-block.json",
+    "sha256": "71a815a495ff2da8cc750940c765a74bd0482c784d387bb439e774ebda326c1b"
+  },
+  {
+    "file": "normal-calltrace.json",
+    "sha256": "b9d860561f5433648a545778c567a9a5fdf2e850d5a178d97331ede744e6f2ae"
+  },
+  {
+    "file": "normal-raw.json",
+    "sha256": "9897cac17c04b823b9beb3cc6c95373ca5afc0e56e174c31c202a461df230c3d"
+  },
+  {
+    "file": "normal-receipt.json",
+    "sha256": "d08a30bd7e31decb6f70e90d7a76eae4a6a86decbe4ab1a8e4d681bb18625490"
+  },
+  {
+    "file": "normal-state-diff.json",
+    "sha256": "5e1cab022d43d0293eadbea8d6a66451e4793ec5901d741b56dde6bcab02e70b"
+  },
+  {
+    "file": "normal-tx.json",
+    "sha256": "0413361469aa6a382745d121dfb95603447d87298a2d15448ba1f65fe8bc7c93"
+  },
+  {
+    "file": "target-code.json",
+    "sha256": "7bddf84ff272a8da3741923e1c2156c825d88dee3cfe53f5b5d9e0ba46cb778c"
+  },
+  {
+    "file": "wallet-code-before.json",
+    "sha256": "5728d43a01ed85b6aa75afd511883358b67ce92f114d67ed73c10959db855680"
+  },
+  {
+    "file": "wallet-nonce-before.json",
+    "sha256": "2e89b496e9c3b0a7faf4af3a78d953cd6e9b07e6a8bff275858870708b2ce257"
+  },
+  {
+    "file": "wallet-owners-before.json",
+    "sha256": "e09fac3b649044f4beb506f8d73a14e69c0d431518b82786c1806d9573092374"
+  },
+  {
+    "file": "wallet-slot0-after.json",
+    "sha256": "610af9a7b8955dc2f2b04d3abafb521b52374ac7579b3ba5f1e79fe542c45e93"
+  },
+  {
+    "file": "wallet-slot0-before.json",
+    "sha256": "38d834dd22047c48aefafae583187eeba9b92d26de40fb4f208000f06b017e24"
+  },
+  {
+    "file": "wallet-threshold-before.json",
+    "sha256": "9bfd9c672889cfb8139ba2bfb6d2ad9dec46ee8e4736ab9d6c7e24e14c230b45"
+  },
+  {
+    "file": "warmup-calltrace.json",
+    "sha256": "1309c3860396a9bc0b466e6b9e0f4615bdf80021528bd757c398810214dd8c9f"
+  },
+  {
+    "file": "warmup-decimals.json",
+    "sha256": "11e66c8e9602ef29e1736459ff237d3413a31af118dabbdcea57a63f539f3394"
+  },
+  {
+    "file": "warmup-raw.json",
+    "sha256": "37d2e50dc2c2a4c9d46d8f468dfe1a4e88be0c1abe5fc74920c169fd645ea261"
+  },
+  {
+    "file": "warmup-receipt.json",
+    "sha256": "129409ce9d8d64ad3ee5513c04642c52121f0b6f52610c0e783d21df5dbff423"
+  },
+  {
+    "file": "warmup-state-diff.json",
+    "sha256": "5d9afb1b6d0ed7a439c9f6b1075194584f1b173c3da9947ff53b639f5473568c"
+  },
+  {
+    "file": "warmup-tx.json",
+    "sha256": "4ca26e9cc33fbf9392180bdb9ddc3c61f983460cd1523fa402157e3efc703044"
+  }
+]

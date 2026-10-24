@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Proxy-v1.1.1.sol",
+    "source_url": "https://raw.githubusercontent.com/safe-global/safe-smart-account/v1.1.1/contracts/proxies/Proxy.sol",
+    "collected_at_utc": "2026-10-24T11:17:12.756357+00:00",
+    "sha256": "f7a59e959a2c0ab968564fccfa5d8aab15d2cbceb08901caaf3e3d220f760b53"
+  },
+  {
+    "file": "OwnerManager-v1.1.1.sol",
+    "source_url": "https://raw.githubusercontent.com/safe-global/safe-smart-account/v1.1.1/contracts/base/OwnerManager.sol",
+    "collected_at_utc": "2026-10-24T11:17:13.173052+00:00",
+    "sha256": "6c5a01dcddd7fd554b35141a00129864e04e086fb5afd4b128f754de61825a51"
+  },
+  {
+    "file": "Safe-v1.1.1-LICENSE",
+    "source_url": "https://raw.githubusercontent.com/safe-global/safe-smart-account/v1.1.1/LICENSE",
+    "collected_at_utc": "2026-10-24T11:17:13.651212+00:00",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+  },
+  {
+    "file": "GnosisSafe-v1.1.1.sol",
+    "source_url": "https://raw.githubusercontent.com/safe-global/safe-smart-account/v1.1.1/contracts/GnosisSafe.sol",
+    "collected_date_utc": "2026-10-24",
+    "sha256": "06977c9d783606f2588e5cbc34dac24826c94d6eecbc1d1e7ce19f22009ecbf6"
+  }
+]
